@@ -1,9 +1,10 @@
 ---
 output:
-  pdf_document
-  html_document
-  word_document
-urlcolor: blue  
+  html_document:
+    df_print: paged
+  pdf_document: 
+    keep_tex: yes
+urlcolor: blue
 ---
 
 Whalen W. Dillon
@@ -11,13 +12,17 @@ Whalen W. Dillon
 
 whalendillon@gmail.com \| 707-332-3316 \| whalendillon.wordpress.com
 
+[Google Scholar](https://scholar.google.com/citations?user=xKBKTQwAAAAJ&hl=en) - [ORCiD](https://orcid.org/0000-0001-8171-0407)
+<!---
+[Twitter \@dillott](https://twitter.com/dillott)
+--->
+
 ## Education
 
 2017 **Ph.D. in Forestry and Environmental Resources**, North Carolina
 State University
 
-> *Dynamics of an emerging infectious forest disease in complex
-> landscapes*
+> Dynamics of an emerging infectious forest disease in complex landscapes
 
 2006 **B.S. in Biology**, The Evergreen State College
 
@@ -67,7 +72,7 @@ measurements. *Journal of Agricultural and Forest Meteorology.*
 
 Haas, S.E., J.H. Cushman, **W.W. Dillon**, N.E. Rank, D.M. Rizzo, and
 R.K. Meentemeyer. 2016. Effects of individual, community, and landscape
-drivers on the dynamics of a wildland forest epidemic. *Ecology,*
+drivers on the dynamics of a wildland forest epidemic. *Ecology*,
 97:649-660. doi: 10.1890/15-0767.1
 
 Chen, G., M.R. Metz, D.M. Rizzo, **W.W. Dillon**, and R.K. Meentemeyer.
@@ -158,7 +163,8 @@ Elizabeth White (UG), Christina Harden (UG), Alison Ochs (UG), Derek Van
 Berkel (Postdoc), Lindsey Smart (Ph.D), Steve Johnston (M.S.), Kerry
 Wininger (M.S.), Sarah Haas (Ph.D.)
 
-## Presentations  (\* indicates invited talks)
+## Presentations 
+(\* indicates invited talks)
 
 **Dillon, W.W.**, D.T. Hiatt, A.M. Gardner, M.C. Dietze, B.F. Allan,
 S.L. Flory. 2018. Examining relationships between fire, plant invasions,
@@ -172,8 +178,7 @@ Chicago, IL.
 
 **\*Dillon, W.W.** and S.L. Flory 2018. Relationships between fire, plant invasions, and tick-borne disease. Central Appalachians Fire Learning Network Potomac Headwaters, Thurmont, MD.
 
-**\*Dillon, W.W.** 2017. Spatial Scale, Pathogen Spillover, and
-Coexistence in an Emerging​ Forest Disease. University of Florida,
+**\*Dillon, W.W.** 2017. Spatial Scale, Pathogen Spillover, and Coexistence in an Emerging Forest Disease. University of Florida,
 Gainesville, FL.
 
 **Dillon, W.W.** and R. K. Meentemeyer. 2016. Effects of topography,
@@ -263,7 +268,7 @@ Annual Graduate Research Fair (\$500)
 2011 Honorable Mention -- *Graduate Student Honors Poster Competition
 (PhD)*, SEDAAG Annual Meeting
 
-##Service
+## Service
 
 2015-present Communications Committee Member, US-IALE
 
