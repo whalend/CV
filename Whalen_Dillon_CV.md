@@ -21,7 +21,7 @@ State University
 
 2006 **B.S. in Biology**, The Evergreen State College
 
-**Employment**
+## Employment
 
 03/2017 - Present **Postdoctoral Research Associate**, Agronomy
 Department, University of Florida
@@ -44,7 +44,7 @@ Environmental Stewardship, Windsor, CA
 03/2003 - 08/2006 **Special Events Supervisor**, The Evergreen State
 College, Olympia, WA
 
-**Publications**
+## Publications
 
 **Dillon, W.W.** and R.K. Meentemeyer. *In Press*. Direct and indirect
 effects of forest microclimate on pathogen spillover. *Ecology*.
@@ -100,7 +100,7 @@ Hiatt, D.T., **W.W. Dillon**, and S.L. Flory. An experimental method for
 testing the effects of fuel structure on fire intensity. Target Journal:
 *International Journal of Wildland Fire*.
 
-**Teaching**
+## Teaching
 
 ***Guest Lectures***
 
@@ -125,7 +125,7 @@ co-instructed workshop designed to introduce all experience levels to
 the use of the R computing environment for analyzing spatially explicit
 data.
 
-**Mentoring**
+## Mentoring
 
 **Joe DiRenzo (M.S. student)** -- Guided in species distribution
 modeling analysis and contextualizing results.
@@ -158,7 +158,7 @@ Elizabeth White (UG), Christina Harden (UG), Alison Ochs (UG), Derek Van
 Berkel (Postdoc), Lindsey Smart (Ph.D), Steve Johnston (M.S.), Kerry
 Wininger (M.S.), Sarah Haas (Ph.D.)
 
-**Presentations** (\* indicates invited talks)
+## Presentations  (\* indicates invited talks)
 
 **Dillon, W.W.**, D.T. Hiatt, A.M. Gardner, M.C. Dietze, B.F. Allan,
 S.L. Flory. 2018. Examining relationships between fire, plant invasions,
@@ -170,10 +170,7 @@ Relationships between fire, plant invasions, and tick-borne disease risk
 across a climate gradient in the southeast U.S. US-IALE Annual Meeting,
 Chicago, IL.
 
-[[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}**\*Dillon, W.W.** and S.L.
-Flory 2018. Relationships between fire, plant invasions, and tick-borne
-disease. Central Appalachians Fire Learning Network Potomac Headwaters,
-Thurmont, MD.
+**\*Dillon, W.W.** and S.L. Flory 2018. Relationships between fire, plant invasions, and tick-borne disease. Central Appalachians Fire Learning Network Potomac Headwaters, Thurmont, MD.
 
 **\*Dillon, W.W.** 2017. Spatial Scale, Pathogen Spillover, and
 Coexistence in an Emerging​ Forest Disease. University of Florida,
@@ -193,8 +190,7 @@ Congress, Portland, OR.
 
 **\*Dillon, W.W.**, S.E. Haas, D.M. Rizzo, and R. K. Meentemeyer. 2014.
 Perspectives of spatial scale in a wildland forest epidemic. US-IALE
-Annual Meeting, Anchorage, AK (Impacts of global Change: Linking Across
-Scales symposium).
+Annual Meeting, Anchorage, AK (Symposium: Impacts of Global Change: Linking Across Scales).
 
 **Dillon, W.W.**, R. K. Meentemeyer, J. B. Vogler, R. C. Cobb, M. R.
 Metz, and D. M. Rizzo. 2012. Range-wide risks to a foundation tree
@@ -207,7 +203,7 @@ effects of interacting disturbances on the spatial distribution and
 structure of tanoak communities. Sudden Oak Death 5^th^ Science
 Symposium, Petaluma, CA.
 
-**Posters**
+***Posters***
 
 **Dillon, W.W.**, D.T. Hiatt, B.F. Allan, M.C. Dietze, S.L. Flory. 2017.
 Effects of an invasive grass on fire intensity. Ecological Society of
@@ -245,7 +241,7 @@ Multiscale analysis of disease-environment relationships in an emerging
 plant pathogen across a heterogeneous landscape. US-IALE Annual Meeting,
 Portland, OR.
 
-**Awards**
+## Awards
 
 2017 Vector Behavior in Transmission Ecology Travel Award (\$1200,
 funding declined)
@@ -267,7 +263,7 @@ Annual Graduate Research Fair (\$500)
 2011 Honorable Mention -- *Graduate Student Honors Poster Competition
 (PhD)*, SEDAAG Annual Meeting
 
-**Service**
+##Service
 
 2015-present Communications Committee Member, US-IALE
 
@@ -292,19 +288,9 @@ Morgan Lab
 
 2007 Coho Broodstock Program, Don Clausen Fish Hatchery, Geyserville, CA
 
-**Reviewer:** *Ecosphere*, *Forest Ecology and Management*, *Forestry:
-An International Journal of Forest Research*, *The Southeastern
-Naturalist*, *Journal of Plant Diseases and Protection*, *Journal of
-Environmental Management*
+**Reviewer(6 journals):** *Ecosphere*, *Forest Ecology and Management*, *Forestry: An International Journal of Forest Research*, *The Southeastern Naturalist*, *Journal of Plant Diseases and Protection*, *Journal of Environmental Management*
 
-**Professional Affiliations**
-
-U.S. Regional Association of the International Association for Landscape
-Ecology (US-IALE)
-
-Ecological Society of America (ESA)
-
-**Professional Development**
+## Professional Development
 
 2019 A2i (Accelerate to Industry) Symposium, University of Florida
 
@@ -312,7 +298,14 @@ Ecological Society of America (ESA)
 
 2013 Introduction to Spatial Data Analysis in R
 
-**Technical Skills**
+## Professional Affiliations
+
+U.S. Regional Association of the International Association for Landscape
+Ecology (US-IALE)
+
+Ecological Society of America (ESA)
+
+## Technical Skills
 
 -   R Statistical Software
 
@@ -332,7 +325,7 @@ Ecological Society of America (ESA)
 
 -   MS Access
 
-**Field Skills**
+## Field Skills
 
 -   Forest vegetation inventory and monitoring
 
@@ -344,7 +337,7 @@ Ecological Society of America (ESA)
 
 -   Microclimate monitoring equipment maintenance
 
-**Additional Interests**
+## Additional Interests
 
 -   Science communication and outreach
 
@@ -354,7 +347,7 @@ Ecological Society of America (ESA)
 
 -   Photography
 
-**Research Areas**
+## Research Areas
 
 -   Forest ecology
 
@@ -376,7 +369,7 @@ Ecological Society of America (ESA)
 
 -   Quantitative analysis
 
-**References**
+## References
 
 Luke Flory (Postdoc supervisor): flory@ufl.edu
 
@@ -388,5 +381,5 @@ David Rizzo: dmrizzo@ucdavis.edu
 
 ORCid QR Code -- Scan with a QR code reader to view my ORCid profile
 
-![](media/image1.png){width="1.7592585301837271in"
+![](ORCid_QR_code.png){width="1.7592585301837271in"
 height="1.7592585301837271in"}
