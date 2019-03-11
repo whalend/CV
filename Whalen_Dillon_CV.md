@@ -24,11 +24,9 @@ State University
 **Employment**
 
 03/2017 - Present **Postdoctoral Research Associate**, Agronomy
-Department, University of
+Department, University of Florida
 
-> Florida
-
-04/2009 - 12/2016 **Field Research Coordinator,** Sudden Oak Death
+04/2009 - 12/2016 **Field Research Coordinator**, Sudden Oak Death
 Research Project, UNC Charlotte/NCSU
 
 08/2013 - 08/2016 **Graduate Research Assistant**, Center for Geospatial
@@ -37,13 +35,11 @@ Analytics, NCSU
 08/2010 - 08/2013 **Graduate Research Assistant**, Center for Applied
 GIScience, UNC Charlotte
 
-11/2007 - 07/2008 **Carpenter**, Earthtone Construction, Inc.**,**
+11/2007 - 07/2008 **Carpenter**, Earthtone Construction, Inc.,
 Sebastopol, CA
 
-07/2007 - 11/2007 **Restoration Technician,** The Center for Social and
-Environmental
-
-> Stewardship**,** Windsor, CA
+07/2007 - 11/2007 **Restoration Technician**, The Center for Social and
+Environmental Stewardship, Windsor, CA
 
 03/2003 - 08/2006 **Special Events Supervisor**, The Evergreen State
 College, Olympia, WA
@@ -53,7 +49,7 @@ College, Olympia, WA
 **Dillon, W.W.** and R.K. Meentemeyer. *In Press*. Direct and indirect
 effects of forest microclimate on pathogen spillover. *Ecology*.
 
-**Dillon, W.W.,** Lieurance, D., Hiatt, D.T., Clay, K., Flory, S.L.
+**Dillon, W.W.**, Lieurance, D., Hiatt, D.T., Clay, K., Flory, S.L.
 2018. Native and Invasive Woody Species Differentially Respond to Forest
 Edges and Forest Successional Age. *Forests* *9*, 381. doi:
 10.3390/f9070381
