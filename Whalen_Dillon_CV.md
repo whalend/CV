@@ -1,8 +1,17 @@
-**Whalen W. Dillon**
+---
+output:
+  pdf_document
+  html_document
+  word_document
+urlcolor: blue  
+---
+
+Whalen W. Dillon
+=================
 
 whalendillon@gmail.com \| 707-332-3316 \| whalendillon.wordpress.com
 
-**Education**
+## Education
 
 2017 **Ph.D. in Forestry and Environmental Resources**, North Carolina
 State University
