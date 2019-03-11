@@ -1,4 +1,4 @@
 library(scholar)
-ID <- "H0AXRhQAAAAJ"
+ID <- "xKBKTQwAAAAJ"
 pubs <- get_publications(ID)
-write.csv(pubs,file="~/CV/citations.csv")
+write.csv(pubs,file="citations.csv")
